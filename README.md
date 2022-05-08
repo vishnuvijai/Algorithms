@@ -1,2 +1,2 @@
 # Algorithms
-Different algorithms worked out (Java, JavaScript, PHP)
+Different algorithms worked out in (Java, JavaScript, PHP)
